@@ -244,7 +244,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/mondrianwifi/proprietary/vendor/lib/libscale.so:$(TARGET_COPY_OUT_VENDOR)/lib/libscale.so \
     vendor/samsung/mondrianwifi/proprietary/vendor/lib/libscve.so:$(TARGET_COPY_OUT_VENDOR)/lib/libscve.so \
     vendor/samsung/mondrianwifi/proprietary/vendor/lib/libscve_stub.so:$(TARGET_COPY_OUT_VENDOR)/lib/libscve_stub.so \
-    vendor/samsung/mondrianwifi/proprietary/vendor/lib/libsecnativefeature.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsecnativefeature.so \
     vendor/samsung/mondrianwifi/proprietary/vendor/lib/libsensor1.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsensor1.so \
     vendor/samsung/mondrianwifi/proprietary/vendor/lib/libSHIMDivxDrm.so:$(TARGET_COPY_OUT_VENDOR)/lib/libSHIMDivxDrm.so \
     vendor/samsung/mondrianwifi/proprietary/vendor/lib/libssd.so:$(TARGET_COPY_OUT_VENDOR)/lib/libssd.so \
