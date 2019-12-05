@@ -147,7 +147,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/mondrianwifi/proprietary/vendor/lib/libchromatix_s5k8b1yx_vt_hd.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k8b1yx_vt_hd.so \
     vendor/samsung/mondrianwifi/proprietary/vendor/lib/libchromatix_s5k8b1yx_zslshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k8b1yx_zslshot.so \
     vendor/samsung/mondrianwifi/proprietary/vendor/lib/libcneapiclient.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcneapiclient.so \
-    vendor/samsung/mondrianwifi/proprietary/vendor/lib/libcnefeatureconfig.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcnefeatureconfig.so \
     vendor/samsung/mondrianwifi/proprietary/vendor/lib/libconfigdb.so:$(TARGET_COPY_OUT_VENDOR)/lib/libconfigdb.so \
     vendor/samsung/mondrianwifi/proprietary/vendor/lib/libdiag.so:$(TARGET_COPY_OUT_VENDOR)/lib/libdiag.so \
     vendor/samsung/mondrianwifi/proprietary/vendor/lib/libdrmdiag.so:$(TARGET_COPY_OUT_VENDOR)/lib/libdrmdiag.so \
@@ -235,7 +234,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/mondrianwifi/proprietary/vendor/lib/libqomx_jpegenc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libqomx_jpegenc.so \
     vendor/samsung/mondrianwifi/proprietary/vendor/lib/libQSEEComAPI.so:$(TARGET_COPY_OUT_VENDOR)/lib/libQSEEComAPI.so \
     vendor/samsung/mondrianwifi/proprietary/vendor/lib/libqti-perfd-client.so:$(TARGET_COPY_OUT_VENDOR)/lib/libqti-perfd-client.so \
-    vendor/samsung/mondrianwifi/proprietary/vendor/lib/librmnetctl.so:$(TARGET_COPY_OUT_VENDOR)/lib/librmnetctl.so \
     vendor/samsung/mondrianwifi/proprietary/vendor/lib/librmp.so:$(TARGET_COPY_OUT_VENDOR)/lib/librmp.so \
     vendor/samsung/mondrianwifi/proprietary/vendor/lib/librpmb.so:$(TARGET_COPY_OUT_VENDOR)/lib/librpmb.so \
     vendor/samsung/mondrianwifi/proprietary/vendor/lib/librs_adreno.so:$(TARGET_COPY_OUT_VENDOR)/lib/librs_adreno.so \
@@ -254,7 +252,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/mondrianwifi/proprietary/vendor/lib/libthermalioctl.so:$(TARGET_COPY_OUT_VENDOR)/lib/libthermalioctl.so \
     vendor/samsung/mondrianwifi/proprietary/vendor/lib/libtime_genoff.so:$(TARGET_COPY_OUT_VENDOR)/lib/libtime_genoff.so \
     vendor/samsung/mondrianwifi/proprietary/vendor/lib/libTimeService.so:$(TARGET_COPY_OUT_VENDOR)/lib/libTimeService.so \
-    vendor/samsung/mondrianwifi/proprietary/vendor/lib/libtinyxml.so:$(TARGET_COPY_OUT_VENDOR)/lib/libtinyxml.so \
     vendor/samsung/mondrianwifi/proprietary/vendor/lib/libTs_J_Accm.so:$(TARGET_COPY_OUT_VENDOR)/lib/libTs_J_Accm.so \
     vendor/samsung/mondrianwifi/proprietary/vendor/lib/libTs_J_Awb.so:$(TARGET_COPY_OUT_VENDOR)/lib/libTs_J_Awb.so \
     vendor/samsung/mondrianwifi/proprietary/vendor/lib/libTsAe.so:$(TARGET_COPY_OUT_VENDOR)/lib/libTsAe.so \
